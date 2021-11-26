@@ -1,7 +1,3 @@
 # engr499-group61
 
-Bananas are tasty
-
-Jared added 
-
-hello
+Capstone project, Distributed Sensor Network for Production System Monitoring and Control
